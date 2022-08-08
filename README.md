@@ -12,6 +12,8 @@ About my skills: ✅Backend: • Java • Spring • JPA / Hibernate • Postgre
 
 🤝Let's connect! Drop me a message if you think my expertise could help your organization.
 
+https://luciandavidescu.com/
+
 📧lucian.davidescu94@gmail.com
 
 https://www.linkedin.com/in/lucian-davidescu-212ab011b/
