@@ -1,9 +1,8 @@
-🚀Senior Java Full Stack Developer / Contractor / Freelancer with 7+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞. I use my expertise and passion to design and implement clients' needs with regards to their software solutions.
+🚀As a senior Java full stack developer with 7+ 𝐲𝐞𝐚𝐫𝐬 𝐨𝐟 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞, I bring a wealth of expertise and passion to the table when it comes to designing and implementing software solutions for clients. My skillset includes a wide range of technologies, including:
 
-About my skills: 
-✅Backend: • Java • Spring • JPA / Hibernate • PostgresSQL / MSSQL • Rest • Firebase /Firestore / NoSql • Mockito / JUnit • Camunda
+✅Backend: • Java • Spring • JPA / Hibernate • PostgresSQL / MSSQL • Rest • Firebase /Firestore / NoSql • Mockito / JUnit • Camunda c Nuxeo
 
-✅Frontend: • React / TypeScript • Javascript / jQuery • HTML / CSS • Struts2 • Wicket • Flutter
+✅Frontend: • React / TypeScript • Javascript / jQuery • HTML / CSS • Struts2 • Wicket • Flutter • Polymer
 
 ✅DevOps: • Docker / Jenkins • SVN /Git / Maven • Sonar • Linux
 
