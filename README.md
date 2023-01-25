@@ -8,6 +8,8 @@
 
 ✅ Other: • Agile Scrum / Jira / Youtrack • Team leader / Project manager
 
+🚀 I am highly experienced in utilizing these technologies to deliver effective and efficient software solutions, and I am available for contract or freelance work. My goal is to use my knowledge and skills to help clients achieve their business objectives by providing them with robust and reliable software.
+
 🌎 Only interested in remote work
 
 🤝 Let's connect! Drop me a message if you think my expertise could help your organization.
